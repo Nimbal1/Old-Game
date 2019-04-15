@@ -1,0 +1,44 @@
+[
+	{
+		"id": 0,
+		"title": "Steel Sword",
+		"value": 6,
+		"stats": {
+		"power": 1,
+		"defence": 4,
+		"vitality": 2
+		},
+		"description": "Steel Sword made from pixels",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "steel_sword"
+	}, 
+	{
+		"id": 1,
+		"title": "Bronze Sword",
+		"value": 38,
+		"stats": {
+		"power": 4,
+		"defence": 0,
+		"vitality": 3
+		},
+		"description": "Bronze Sword made from pixels",
+		"stackable": false,
+		"rarity": 4,
+		"slug": "bronze_sword"
+	},
+	{
+		"id": 2,
+		"title": "Steel Gloves",
+		"value": 69,
+		"stats": {
+		"power": 6,
+		"defence": 1,
+		"vitality": 4
+		},
+		"description": "Steel Gloves made from pixels",
+		"stackable": true,
+		"rarity": 3,
+		"slug": "steel_glove"
+	}
+]
